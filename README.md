@@ -3,5 +3,5 @@ This is a library for Arduino ide.
 Put this folder in Arduino/libraires.
 Follow the example to start using it.
 
-##Dependencies
+## Dependencies
 - NeoPixel library
